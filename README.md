@@ -64,7 +64,7 @@ A real-time scanner for Indian stock markets, including:
 
 ## 📬 Get in Touch
 
-- **LinkedIn:** [Linkedin Profile](https://www.linkedin.com/in/vignesh-nadar-4108b4133?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn:** [Linkedin Profile](https://www.linkedin.com/in/vignesh-nadar-4108b4133)
 - **Email:** [Email Address](nadarvignesh105@gmail.com)
 
 Feel free to explore my repositories for more exciting projects! 🚀
