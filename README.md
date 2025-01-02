@@ -46,20 +46,22 @@ I'm a passionate **DevOps, Release Management, GitOps, and CloudOps** profession
 
 ### AWS Cloud Practitioner
 
-![AWS Certification](https://images.credly.com/size/220x220/images/4e73c86f-1e3e-42e6-9f15-9e6836c041c7/AWS_Cloud_Practitioner.png)
+![AWS Certification](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+[view certification](https://www.credly.com/badges/ffe11f97-e433-4a1d-a6e3-258fc90118a7/public_url)
 
 ---
 
 ## 💼 Projects
 
-### 1. Realtime Stock Market Scanner
+### 1. Realtime Stock Market Scanner (Private)
 A real-time scanner for Indian stock markets, including:
 - Stocks
 - Futures
 - Options
 - MCX data
 
-### 2. Multi-Kubernetes Cluster Management
+### 2. Multi-Kubernetes Cluster Management 
+[Link](https://github.com/DarkKing105/artifact)
 - Implemented full CI/CD pipelines for managing multiple Kubernetes clusters.
 - Leveraged tools like Jenkins, ArgoCD, and Terraform for seamless deployments.
 
@@ -67,7 +69,7 @@ A real-time scanner for Indian stock markets, including:
 
 ## 📬 Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email:** [Your Email Address](mailto:your-email@example.com)
+- **LinkedIn:** [Linkedin Profile](https://www.linkedin.com/in/vignesh-nadar-4108b4133?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email:** [Email Address](nadarvignesh105@gmail.com)
 
 Feel free to explore my repositories for more exciting projects! 🚀
