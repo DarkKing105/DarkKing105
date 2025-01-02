@@ -42,12 +42,7 @@ I'm a passionate **DevOps, Release Management, GitOps, and CloudOps** profession
 
 ---
 
-## 📜 Certifications
 
-### AWS Cloud Practitioner
-
-![AWS Certification](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
-[view certification](https://www.credly.com/badges/ffe11f97-e433-4a1d-a6e3-258fc90118a7/public_url)
 
 ---
 
