@@ -55,7 +55,7 @@ A real-time scanner for Indian stock markets, including:
 - Options
 - MCX data
 
-### 2. Multi-Kubernetes Cluster Management 
+### 2. Multi Cluster Kubernetes orchestration 
 [Link](https://github.com/DarkKing105/artifact)
 - Implemented full CI/CD pipelines for managing multiple Kubernetes clusters.
 - Leveraged tools like Jenkins, ArgoCD, and Terraform for seamless deployments.
